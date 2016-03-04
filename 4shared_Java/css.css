@@ -1,0 +1,50 @@
+div#photo {
+	float: left;
+	border: 1px solid;
+}
+
+input.check_c {
+/* 	right: 10px; */
+	top: 10px;
+	float: right;
+	position: relative;
+/* 	margin: -25px; */
+/* 	height: 50px; */
+/* 	width: 50px; */
+	
+	margin-top: -10px;
+	margin-right: -105px;
+	right: 74px;
+	height: 100px;
+	width: 100px;
+	opacity: 0.4;
+}
+
+input.check_i {
+  left: 5px;
+  top: 10px;
+  float: left;
+  position: relative;
+  margin: -7px;
+  margin-top: 150px;
+  z-index: 9; 
+}
+input.check_p {
+  left: 5px;
+  top: 10px;
+  float: left;
+  position: relative;
+  margin: -7px;
+  margin-top: 175px;
+  z-index: 9; 
+}
+
+.lessOpaque{
+	opacity: 0.4;
+}
+
+.lastSaw{
+	border: red solid 10px;
+  	/* padding: 10px; */
+  	margin: -10px;
+}

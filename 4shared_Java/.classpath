@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="Lib/mail.jar"/>
+	<classpathentry kind="lib" path="Lib/pop3.jar"/>
+	<classpathentry kind="lib" path="Lib/smtp.jar"/>
+	<classpathentry kind="lib" path="xmlLib/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="xmlLib/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/axis.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/axis-ant.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="/media/big/note/ajustagem2/4shared/Util/axis-1_4/lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/opt/maloi/eclipse_old/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="Lib/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="Lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="Lib/mongo-java-driver-2.12.4.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="Lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="Lib/httpmime-4.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Selenium"/>
+	<classpathentry kind="lib" path="/opt/maloi/eclipse_mart/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="/opt/maloi/eclipse_mart/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
